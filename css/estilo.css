@@ -1,0 +1,17 @@
+
+#app 
+{
+    width: 600px;
+    height: 150px;
+    margin: auto;
+    border-radius: 15px;
+    background-color: #3ab6a9;
+}
+#titulo 
+{   
+    line-height: 150px;
+    text-align: center;
+    color: linen;
+    text-align: center;
+    font-size: 28px;
+}
